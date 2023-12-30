@@ -50,3 +50,22 @@ mvn test
 ## Sample Tests 🎮
 
 The `BlackjackTest` class in the `src/test/java` directory contains sample tests for various scenarios, including determining winners based on card values and checking for special combinations like Blackjack.
+
+
+## Getting Started
+
+1. Clone this repository:
+
+   ```bash
+     git clone https://github.com/AlejandroDavidArzolaSaavedra/TDD-Black-Jack.git
+   ```
+
+2. Explore the dataset folders to understand the structure.
+
+3. Use the data to train and test your models and contribute to this project.
+
+# 🤝 Contributions
+<img align="left" width="200" height="180" src="https://github.com/AlejandroDavidArzolaSaavedra/CNN-CT-BRAIN/assets/90756437/3bf833fa-828e-467c-89b8-0ea4a077d3ea"></a>
+If you wish to contribute to this project, feel free to do so. You can open issues or send pull requests to improve the code or add new features. Your collaboration is welcome! 🚀
+
+
