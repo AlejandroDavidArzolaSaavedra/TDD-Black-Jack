@@ -1,6 +1,7 @@
 <h1 align="center">Blackjack Game 🎲</h1>
-
-<img style="width=1rem;" src="top-view-of-blackjack-table.png"/>
+<p align="center">
+   <img width="600px" src="https://github.com/AlejandroDavidArzolaSaavedra/TDD-Black-Jack/assets/90756437/69e92576-aaae-4a2f-ac7c-656edb4b1bd9"/>
+</p>
 
 ## Overview 📚
 
