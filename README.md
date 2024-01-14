@@ -38,16 +38,6 @@ To run the tests, you can use the following Maven command:
 mvn test
 ```
 
-## Classes Overview 🃏
-
-- **`Blackjack`**: Represents the main Blackjack game logic, including methods for determining winners, checking for Blackjack, and calculating the sum of bets.
-- **`Card`**: An abstract class representing a generic playing card.
-- **`Ace`**: A class representing an Ace card with methods to get its value.
-- **`Croupier`**: Placeholder class for the Croupier, which could be extended in the future.
-- **`FigureCard`**: A class representing a face card (Jack, Queen, King) with methods to get its value.
-- **`PipCard`**: A class representing a pip card (numbered card) with methods to get its value.
-- **`Player`**: Represents a player in the Blackjack game, including their name, bet, and methods to add cards to their bet.
-
 ## Sample Tests 🎮
 
 The `BlackjackTest` class in the `src/test/java` directory contains sample tests for various scenarios, including determining winners based on card values and checking for special combinations like Blackjack.
