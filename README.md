@@ -3,8 +3,6 @@
    <img width="600px" src="https://github.com/AlejandroDavidArzolaSaavedra/TDD-Black-Jack/assets/90756437/69e92576-aaae-4a2f-ac7c-656edb4b1bd9"/>
 </p>
 
-## Overview 📚
-
 This project is a simple implementation of a Blackjack game in Java, following a Test-Driven Development (TDD) approach. The game consists of a set of classes representing cards, players, and the game logic itself.
 
 ## Project Structure 📂
