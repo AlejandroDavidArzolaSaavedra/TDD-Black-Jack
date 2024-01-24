@@ -27,8 +27,8 @@ This will compile the source code, run the tests, and package the application in
 As the project is a library for a Blackjack game, there is no standalone application. You can, however, use the classes provided in the `src/test/java` directory to create your own Blackjack game scenarios.
 
 ## Testing 🧪
-
-The project includes a set of JUnit tests located in the `src/test/java` directory. These tests cover various aspects of the Blackjack game logic, including determining winners, calculating the sum of bets, and handling special card combinations.
+<img align="left" width="100px" src="https://github.com/AlejandroDavidArzolaSaavedra/TDD-Black-Jack/assets/90756437/3bbe03ea-8fb4-4f65-be79-e41e6757bcf0"/>
+The project includes a set of JUnit tests located in the `src/test/java` directory. These tests cover various aspects of the Blackjack game logic, including determining winners, calculating the sum of bets, and handling special card combinations.<br>
 
 To run the tests, you can use the following Maven command:
 
